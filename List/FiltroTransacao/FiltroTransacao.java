@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 //Auditoria Financeira
-public class List1 {
+public class FiltroTransacao {
 
     public static List<Double> processarLote(List<Double> transacao) {
 
